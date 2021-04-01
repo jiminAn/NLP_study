@@ -31,3 +31,7 @@
 - [참고 사이트1: 블로그](https://ratsgo.github.io/machine%20learning/2017/11/04/MEMMs/)
 
 ### CRF
+
+### BERT
+- https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/zh/latest/nlp/bert_pretraining.html
+- https://codlingual.tistory.com/98
